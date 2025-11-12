@@ -4,7 +4,7 @@ These are a range of taster activities that can be used to add some stretch and 
 
 | Activity | Challenge Level | Subjects covered
 | :--------- | :--: | :--: |
-| [Activity 1](Activity 1.md): Master the Logic with the 'Hour of Code' | 🌶️| 💻 |
+| [Activity 1](Activity%201.md): Master the Logic with the 'Hour of Code' | 🌶️| 💻 |
 | [[Activity 2]]: Become a Web Designer with CodePen | 🌶️🌶️| 🌐 |
 | [[Activity 3]]: Create Your Own Interactive Story |🌶️ | 💻💡 |
 | [[Activity 4]]:Teach a Machine to See |🌶️🌶️ | 🤖 |
