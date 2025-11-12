@@ -5,4 +5,4 @@
 **Why it's fun:** This programming challenge also involves very simple robotics based on the [Micro:bit system](https://microbit.org/).
 
 **How to do it:**
-1. Visit the [Dalek's Micro:bit website](https://dalekhack.microbit.org/) and start collecting.
+1. Visit the [Dalek's Micro:bit website](https://dalekhack.microbit.org/) and start EXTERMINATING!
