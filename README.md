@@ -20,6 +20,7 @@ These are a range of taster activities that can be used to add some stretch and 
 
 
 ** Key: **
+
 - 🌶️ - easy difficulty
 - 🌶️🌶️- medium difficulty
 - 🌶️🌶️🌶️- hard difficulty
