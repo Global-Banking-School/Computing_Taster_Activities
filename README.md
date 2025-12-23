@@ -16,7 +16,16 @@ These are a range of taster activities that can be used to add some stretch and 
 | [Activity 10](Activity%2010.md): Build code to find the gems (easy version) |🌶️/🧙‍♀️🧙‍♀️ | 💻 |
 | [Activity 11](Activity%2011.md): Write code to find the gems (medium version) | 🌶️🌶️/🧙‍♀️🧙‍♀️🧙‍♀️| 💻🦣 |
 | [Activity 12](Activity%2012.md): Help the Doctor defeat the daleks |🌶️ & 🌶️🌶️/🧙‍♀️ | 💻 |
-| [Activity 13](Activity%2013.md): Protecting the startup from cyber attacks |🌶️/🧙‍♀️ | 🦹‍♀️|
+| [Activity 13](Activity%2013.md): Protecting the start-up from cyber attacks |🌶️/🧙‍♀️ | 🦹‍♀️|
+| [[Activity 14]]: Learning how to use the worlds most common operating system | 🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 📡 🦣|
+| [[Activity 15]]: Time for a little phishing | 🌶️ / 🧙‍♀️🧙‍♀️ | 🦹‍♀️|
+| [[Activity 16]]: Keeping secrets | 🌶️/🧙‍♀️| 🦹‍♀️|
+| [[Activity 17]]: On your marks, get set, draw! | 🌶️/🧙‍♀️| 🤖⚡|
+| [[Activity 18]]: Trust | 🌶️/🧙‍♀️| 🦹‍♀️🛜|
+| [[Activity 19]]: Typing challenge - take 2 |🌶️/🧙‍♀️ | ⌨️⚡ |
+| [[Activity 20]]: Binary choices | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
+| [[Activity 21]]: The NAND game | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 🪫🦣|
+
 
 
 **Key:**
@@ -37,6 +46,9 @@ These are a range of taster activities that can be used to add some stretch and 
 - 📳 - mobile phone challenges
 - 🦹‍♀️ - cyber security challenges
 - ⌨️ - typing challenges
+- 📡 - operating system challenges
+- 🛜 - network challenges
+- 🪫- electronics challenges
 - ⚡- quick challenge
 - 🦣- longer challenges
 - 💿 - needs additional resources
