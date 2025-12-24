@@ -17,14 +17,14 @@ These are a range of taster activities that can be used to add some stretch and 
 | [Activity_11-Write_code_to_find_the_gems-medium_version](Activity_11-Write_code_to_find_the_gems-medium_version.md) | 🌶️🌶️/🧙‍♀️🧙‍♀️🧙‍♀️| 💻🦣 |
 | [Activity_12-Help_the_Doctor_defeat_the_daleks](Activity_12-Help_the_Doctor_defeat_the_daleks.md) |🌶️ & 🌶️🌶️/🧙‍♀️ | 💻 |
 | [Activity_13-Protecting_the_startup_from_cyber_attacks](Activity_13-Protecting_the_startup_from_cyber_attacks.md)|🌶️/🧙‍♀️ | 🦹‍♀️|
-| [Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system](Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system) | 🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 📡 🦣|
-| [Activity_15-Time_for_a_little_phishing](Activity_15-Time_for_a_little_phishing) | 🌶️ / 🧙‍♀️🧙‍♀️ | 🦹‍♀️|
-| [Activity_16-Keeping_Secrets](Activity_16-Keeping_Secrets)| 🌶️/🧙‍♀️| 🦹‍♀️|
-| [Activity_17-On_your_marks_get_set_draw](Activity_17-On_your_marks_get_set_draw)| 🌶️/🧙‍♀️| 🤖⚡|
-| [Activity_18-Trust](Activity_18-Trust) | 🌶️/🧙‍♀️| 🦹‍♀️🛜|
-| [Activity_19-Typing_challenge-take_2](Activity_19-Typing_challenge-take_2) |🌶️/🧙‍♀️ | ⌨️⚡ |
-| [Activity_20-Binary_choices](Activity_20-Binary_choices) | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
-| [Activity_21-The_NAND_game](Activity_21-The_NAND_game) | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 🪫🦣|
+| [Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system](Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system.md) | 🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 📡 🦣|
+| [Activity_15-Time_for_a_little_phishing](Activity_15-Time_for_a_little_phishing.md) | 🌶️ / 🧙‍♀️🧙‍♀️ | 🦹‍♀️|
+| [Activity_16-Keeping_Secrets](Activity_16-Keeping_Secrets.md)| 🌶️/🧙‍♀️| 🦹‍♀️|
+| [Activity_17-On_your_marks_get_set_draw](Activity_17-On_your_marks_get_set_draw.md)| 🌶️/🧙‍♀️| 🤖⚡|
+| [Activity_18-Trust](Activity_18-Trust.md) | 🌶️/🧙‍♀️| 🦹‍♀️🛜|
+| [Activity_19-Typing_challenge-take_2](Activity_19-Typing_challenge-take_2.md) |🌶️/🧙‍♀️ | ⌨️⚡ |
+| [Activity_20-Binary_choices](Activity_20-Binary_choices.md) | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
+| [Activity_21-The_NAND_game](Activity_21-The_NAND_game.md) | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 🪫🦣|
 
 
 
