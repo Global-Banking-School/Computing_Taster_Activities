@@ -4,27 +4,27 @@ These are a range of taster activities that can be used to add some stretch and 
 
 | Activity | Challenge Level | Subjects covered
 | :--------- | :--: | :--: |
-| [Activity 1](Activity%201.md): Master the Logic with the 'Hour of Code' | 🌶️/🧙‍♀️🧙‍♀️| 💻 |
-| [Activity 2](Activity%202.md): Become a Web Designer with CodePen | 🌶️🌶️/🧙‍♀️🧙‍♀️| 🌐 |
-| [Activity 3](Activity%203.md): Create Your Own Interactive Story |🌶️/🧙‍♀️🧙‍♀️ | 💻💡 |
-| [Activity 4](Activity%204.md):Teach a Machine to See |🌶️🌶️/🧙‍♀️🧙‍♀️ | 🤖 |
-| [Activity 5](Activity%205.md): Design Your First Mobile App | 🌶️🌶️🌶️/🧙‍♀️🧙‍♀️| 📳💻 |
-| [Activity 6](Activity%206.md): Marking it down |🌶️🌶️/🧙‍♀️🧙‍♀️ |  💡 |
-| [Activity 7](Activity%207.md): Solve Puzzles with Programming Logic |🌶️/🧙‍♀️🧙‍♀️ | 💻 |
-| [Activity 8](Activity%208.md): Solve the crime and find the rhinos | 🌶️🌶️🌶️🌶️/🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️| 🦹‍♀️🦣💿 |
-| [Activity 9](Activity%209.md): Typing Challenge |🌶️/🧙‍♀️ | ⌨️⚡ |
-| [Activity 10](Activity%2010.md): Build code to find the gems (easy version) |🌶️/🧙‍♀️🧙‍♀️ | 💻 |
-| [Activity 11](Activity%2011.md): Write code to find the gems (medium version) | 🌶️🌶️/🧙‍♀️🧙‍♀️🧙‍♀️| 💻🦣 |
-| [Activity 12](Activity%2012.md): Help the Doctor defeat the daleks |🌶️ & 🌶️🌶️/🧙‍♀️ | 💻 |
-| [Activity 13](Activity%2013.md): Protecting the start-up from cyber attacks |🌶️/🧙‍♀️ | 🦹‍♀️|
-| [[Activity 14]]: Learning how to use the worlds most common operating system | 🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 📡 🦣|
-| [[Activity 15]]: Time for a little phishing | 🌶️ / 🧙‍♀️🧙‍♀️ | 🦹‍♀️|
-| [[Activity 16]]: Keeping secrets | 🌶️/🧙‍♀️| 🦹‍♀️|
-| [[Activity 17]]: On your marks, get set, draw! | 🌶️/🧙‍♀️| 🤖⚡|
-| [[Activity 18]]: Trust | 🌶️/🧙‍♀️| 🦹‍♀️🛜|
-| [[Activity 19]]: Typing challenge - take 2 |🌶️/🧙‍♀️ | ⌨️⚡ |
-| [[Activity 20]]: Binary choices | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
-| [[Activity 21]]: The NAND game | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 🪫🦣|
+| [Activity_1-Master_the_Logic_with_the_Hour_of_Code](Activity_1-Master_the_Logic_with_the_Hour_of_Code.md) | 🌶️/🧙‍♀️🧙‍♀️| 💻 |
+| [Activity_2-Become_a_Web_Designer_with_CodePen](Activity_2-Become_a_Web_Designer_with_CodePen.md) | 🌶️🌶️/🧙‍♀️🧙‍♀️| 🌐 |
+| [Activity_3-Create_Your_Own_Interactive_Story](Activity_3-Create_Your_Own_Interactive_Story.md): |🌶️/🧙‍♀️🧙‍♀️ | 💻💡 |
+| [Activity_4-Teach_a_machine_to_see](Activity_4-Teach_a_machine_to_see.md) |🌶️🌶️/🧙‍♀️🧙‍♀️ | 🤖 |
+| [Activity_5-Design_Your_First_Mobile_App](Activity_5-Design_Your_First_Mobile_App.md) | 🌶️🌶️🌶️/🧙‍♀️🧙‍♀️| 📳💻 |
+| [Activity_6-Create_a_Professional_README_with_Markdown](Activity_6-Create_a_Professional_README_with_Markdown.md) |🌶️🌶️/🧙‍♀️🧙‍♀️ |  💡 |
+| [Activity_7-Solve_Puzzles_with_Programming_Logic](Activity_7-Solve_Puzzles_with_Programming_Logic.md) |🌶️/🧙‍♀️🧙‍♀️ | 💻 |
+| [Activity_8-Solve_the_crime_and_find_the_rhinos](Activity_8-Solve_the_crime_and_find_the_rhinos.md) | 🌶️🌶️🌶️🌶️/🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️| 🦹‍♀️🦣💿 |
+| [Activity_9-Typing_challenge](Activity_9-Typing_challenge.md): Typing Challenge |🌶️/🧙‍♀️ | ⌨️⚡ |
+| [Activity_10-Build_code_to_find_the_gems-easy_version](Activity_10-Build_code_to_find_the_gems-easy_version.md) |🌶️/🧙‍♀️🧙‍♀️ | 💻 |
+| [Activity_11-Write_code_to_find_the_gems-medium_version](Activity_11-Write_code_to_find_the_gems-medium_version.md) | 🌶️🌶️/🧙‍♀️🧙‍♀️🧙‍♀️| 💻🦣 |
+| [Activity_12-Help_the_Doctor_defeat_the_daleks](Activity_12-Help_the_Doctor_defeat_the_daleks.md) |🌶️ & 🌶️🌶️/🧙‍♀️ | 💻 |
+| [Activity_13-Protecting_the_startup_from_cyber_attacks](Activity_13-Protecting_the_startup_from_cyber_attacks.md)|🌶️/🧙‍♀️ | 🦹‍♀️|
+| [Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system](Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system) | 🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 📡 🦣|
+| [Activity_15-Time_for_a_little_phishing](Activity_15-Time_for_a_little_phishing) | 🌶️ / 🧙‍♀️🧙‍♀️ | 🦹‍♀️|
+| [Activity_16-Keeping_Secrets](Activity_16-Keeping_Secrets)| 🌶️/🧙‍♀️| 🦹‍♀️|
+| [Activity_17-On_your_marks_get_set_draw](Activity_17-On_your_marks_get_set_draw)| 🌶️/🧙‍♀️| 🤖⚡|
+| [Activity_18-Trust](Activity_18-Trust) | 🌶️/🧙‍♀️| 🦹‍♀️🛜|
+| [Activity_19-Typing_challenge-take_2](Activity_19-Typing_challenge-take_2) |🌶️/🧙‍♀️ | ⌨️⚡ |
+| [Activity_20-Binary_choices](Activity_20-Binary_choices) | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
+| [Activity_21-The_NAND_game](Activity_21-The_NAND_game) | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 🪫🦣|
 
 
 
