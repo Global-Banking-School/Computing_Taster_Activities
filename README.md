@@ -25,7 +25,7 @@ These are a range of taster activities that can be used to add some stretch and 
 | [Activity_19-Typing_challenge-take_2](Activity_19-Typing_challenge-take_2.md) |🌶️/🧙‍♀️ | ⌨️⚡ |
 | [Activity_20-Binary_choices](Activity_20-Binary_choices.md) | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
 | [Activity_21-The_NAND_game](Activity_21-The_NAND_game.md) | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 🪫🦣|
-
+| [[Activity_22-Robot_Simulation]] | 🌶️🌶️🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 💻 🤖 🦣 💿|
 
 
 **Key:**
