@@ -20,7 +20,7 @@ These are a range of taster activities that can be used to add some stretch and 
 | [Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system](Activity_14-Learning_how_to_use_the_worlds_most_common_operating_system.md) | 🌶️🌶️ / 🧙‍♀️🧙‍♀️🧙‍♀️🧙‍♀️ | 📡 🦣|
 | [Activity_15-Time_for_a_little_phishing](Activity_15-Time_for_a_little_phishing.md) | 🌶️ / 🧙‍♀️🧙‍♀️ | 🦹‍♀️|
 | [Activity_16-Keeping_Secrets](Activity_16-Keeping_Secrets.md)| 🌶️/🧙‍♀️| 🦹‍♀️|
-| [Activity_17-On_your_marks_get_set_draw](Activity_17-On_your_marks_get_set_draw.md)| 🌶️/🧙‍♀️| 🤖⚡|
+| [Activity_17-On_your_marks_get_set_draw](Activity_17-On_your_marks_get_set_draw.md)| 🌶️/🧙‍♀️| 🤖 💡⚡|
 | [Activity_18-Trust](Activity_18-Trust.md) | 🌶️/🧙‍♀️| 🦹‍♀️🛜|
 | [Activity_19-Typing_challenge-take_2](Activity_19-Typing_challenge-take_2.md) |🌶️/🧙‍♀️ | ⌨️⚡ |
 | [Activity_20-Binary_choices](Activity_20-Binary_choices.md) | 🌶️🌶️/ 🧙‍♀️🧙‍♀️🧙‍♀️ | 🛜|
