@@ -7,5 +7,5 @@
 **How to do it:**
 
 1. Download and install a copy of [Oracle VirtualBox](https://www.virtualbox.org/).
-2. Download the [challenge VM]([rodeo-challenge.ova](https://globalbanking-my.sharepoint.com/:u:/g/personal/fmitchell_globalbanking_ac_uk/EWIPb3M9i2lOqpC4vz1VtPMBFGTsqyzTX3eLG1iET67yog?e=aurcdg)) and load it into VirtualBox
-3. Follow the instructions on the [[Rodeo_Challenge_GBS.pdf|Challenge sheet]].
+2. Download the [challenge VM](https://globalbanking-my.sharepoint.com/:u:/g/personal/fmitchell_globalbanking_ac_uk/EWIPb3M9i2lOqpC4vz1VtPMBFGTsqyzTX3eLG1iET67yog?e=aurcdg) and load it into VirtualBox
+3. Follow the instructions on the [Challenge Sheet](Support_Files/Roedeo_Challenge_GBS.pdf). 
