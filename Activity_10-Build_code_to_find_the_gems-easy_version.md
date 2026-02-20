@@ -6,5 +6,5 @@
 
 **How to do it:**
 
-1. Visit the [CodeCombat website]([https://codecombat.com/play/junior](https://codecombat.com/play/junior)) and start collecting.
+1. Visit the [CodeCombat website](https://codecombat.com/play/junior) and start collecting.
     

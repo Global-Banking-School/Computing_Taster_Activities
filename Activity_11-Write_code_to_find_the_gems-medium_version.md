@@ -6,5 +6,5 @@
 
 **How to do it:**
 
-1. Visit the [CodeCombat website]([[https://codecombat.com/play/level/dungeons-of-kithgard](https://codecombat.com/play/level/dungeons-of-kithgard))) and start collecting.
+1. Visit the [CodeCombat website](https://codecombat.com/play/level/dungeons-of-kithgard) and start collecting.
     

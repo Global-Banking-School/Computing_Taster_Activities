@@ -6,4 +6,4 @@
 
 **How to do it:**
 
-1. Go to the [ZType game]([https://www.typing.com/en-gb/student/game/ztype](https://www.typing.com/en-gb/student/game/ztype)) website and start typing :-)
+1. Go to the [ZType game](https://www.typing.com/en-gb/student/game/ztype) website and start typing :-)
